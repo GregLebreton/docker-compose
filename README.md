@@ -1,26 +1,17 @@
-                                        *** projet architecture trois tiers ***
+                                        ### projet architecture trois tiers ###
 
 
-Sujet: 
+# Sujet: 
 
-       * Créer une application web Java avec une architecture trois tiers.
-
-       * Créer un reverse proxy qui acceuille trois virtuelhost: un pour l'applicaion,
-       un pour le management du serveur tomcat et un pour la base de donnée.
-       
-       * Un serveur Tomcat
-       
-       * Une base de données
-       
-       * Faire un schéma d'architecture technique (composants, fluxs) et fonctionnelle (services, relations)
+        - utiliser docker-compose pour manier plusieurs containers interagissant entre eux
+            Un container Nginx en front servant un container Wordpress s'appuyant sur un container MariaDB
  
  
-Outils: 
+# Outils: 
 
         * Docker
-        * Ansible
-        * ...
- 
- 
-Developpeurs: Toumi Hamza, Lebreton Grégory       
-       
+        * Docker-compose
+
+# Processus:
+
+        $ sudo blah blah!
