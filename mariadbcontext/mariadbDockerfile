@@ -1,0 +1,7 @@
+# MARIADB DOCKERFILE
+
+FROM mariadb:latest
+
+#RUN systemctl start mariadb
+
+CMD echo 'hello world!'
