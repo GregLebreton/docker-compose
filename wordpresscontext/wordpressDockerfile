@@ -1,8 +1,4 @@
-# TOMCAT DOCKERFILE
+# wordpress DOCKERFILE
 
 FROM wordpress
 COPY ./wp-config.php /var/www/html/wordpress 
-
-# RUN systemctl start tomcat
-
-
