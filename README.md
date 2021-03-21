@@ -4,7 +4,9 @@
 # Sujet: 
 
         - utiliser docker-compose pour manier plusieurs containers interagissant entre eux
-            Un container Nginx en front servant un container Wordpress s'appuyant sur un container MariaDB
+            * Un container Nginx en front servant 
+            * un container Wordpress s'appuyant sur 
+            * un container MariaDB
  
  
 # Outils: 
