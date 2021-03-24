@@ -25,4 +25,9 @@
 
 # Processus:
 
-        $ sudo blah blah!
+        $ docker-compose up
+        
+  
+# visiter:
+
+        http://localhost:8080
