@@ -1,5 +1,0 @@
-# NGINX DOCKERFILE
-
-FROM nginx
-COPY ./wordpress_nginx.conf /etc/nginx/sites-enabled/wordpress_nginx.conf
-RUN 'systemctl start nginx'

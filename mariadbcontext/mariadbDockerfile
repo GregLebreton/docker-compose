@@ -1,7 +1,0 @@
-# MARIADB DOCKERFILE
-
-FROM mariadb:latest
-
-RUN systemctl start mariadb
-# COPY ./script_SQL.sh /
-# RUN './script_SQL.sh'

@@ -12,11 +12,7 @@
 
 # Sujet: 
 
-        - utiliser docker-compose pour manier plusieurs containers interagissant entre eux
-            * Un container Nginx en front servant 
-            * un container Wordpress s'appuyant sur 
-            * un container MariaDB
- 
+        - sécuriser le docker-compose en utilisant docker secrets
  
 # Outils: 
 
@@ -25,4 +21,9 @@
 
 # Processus:
 
-        $ sudo blah blah!
+        $ docker-compose up
+        
+  
+# visiter:
+
+        http://localhost:8080
